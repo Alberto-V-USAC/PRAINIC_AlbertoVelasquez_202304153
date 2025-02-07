@@ -1,6 +1,5 @@
 ![Prompt 0](img/prompt0.bmp)
 ![Prompt 1](img/prompt1.bmp)
-![Prompt 2](img/prompt2.bmp)
 ![Prompt 3](img/prompt3.bmp)
 ![Prompt 4](img/prompt4.bmp)
 ![Prompt 5](img/prompt5.bmp)
