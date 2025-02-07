@@ -1,6 +1,6 @@
-# Manual de Mantenimiento de Computadoras ��
+# Manual de Mantenimiento de Computadoras 💻
 
-## Herramientas ��
+## Herramientas 🔧
 * Alcohol Isopropílico
 * Trapo de Microfibra
 * Pasta Térmica
@@ -8,9 +8,13 @@
 * Pulsera Antiestática (opcional)
 * Aire Comprimido (opcional)
 
-## Instrucciones
+## Instrucciones 📚
 1. Remover Tornillos
+    lorem
+
 2. Remover Cubierta
+    lorem
+
 3. Desconectar Batería
 4. Desconectar Unidad de Almacenamiento (HDD/SSD)
 5. Desconectar Ventiladores
