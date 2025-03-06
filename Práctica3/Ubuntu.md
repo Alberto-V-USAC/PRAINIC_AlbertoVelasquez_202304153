@@ -78,7 +78,7 @@ Luego podemos modificarlo desde la terminal y para guardarlo presionamos la comb
 ##
 
 8) Para verificarlos solo actualizamos la pestañan del navegador y listo, con eso estaría todo!!!
-![17](https://raw.githubusercontent.com/Churunel/PRAINIC_PedroChurunel_202300720/main/Informe3_SistemasOperativos/imagenes/18.png)
+![17](https://raw.githubusercontent.com/Churunel/PRAINIC_PedroChurunel_202300720/main/Informe3_SistemasOperativos/imagenes/17.png)
 
 ##
 
