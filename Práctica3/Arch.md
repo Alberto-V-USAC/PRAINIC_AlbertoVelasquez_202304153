@@ -39,8 +39,12 @@ sudo chmod 666 index.html
 ```
 
 Una pequeña referencia se puede encontrar aquí.
+
 ![chmod](chmod.webp)
 
 Luego se utiliza cualquier editor de texto, en mi caso `neovim`.
 
 Y para finalizar, se reinicia el server.
+```sh
+sudo systemctl restart httpd
+```
